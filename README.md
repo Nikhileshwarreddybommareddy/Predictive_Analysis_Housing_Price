@@ -1,4 +1,4 @@
-# Housing Price Prediction
+#  Predictive Analytics for Housing Price
 
 ## Introduction
 Welcome to the Housing Price Prediction project! This README provides an overview of the project's specifications and the performance metrics of different regression models. The project aims to predict the actual value of prospective properties in Australia and determine the significance of variables in predicting house prices.
